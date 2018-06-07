@@ -1,5 +1,6 @@
 
 ### Kickstarter
+
 ##### Strengths
 - Household name, large userbase already
 - Wide range of applications (new products, supporting community causes, artist patronage)
